@@ -7,4 +7,6 @@
 * Mujer Maravilla
 * Spiderman
 * Capitan America
+* Thor
+* Hulk
 
