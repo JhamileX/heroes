@@ -3,4 +3,6 @@ villanos
 * joker
 * ultron
 * pinguino
+* Magneto
+* Loki
 
