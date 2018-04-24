@@ -6,3 +6,5 @@
 * Aquaman
 * Mujer Maravilla
 * Spiderman
+* Capitan America
+
